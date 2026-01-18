@@ -13,7 +13,7 @@ This repository evaluates the performance of multiple machine learning models on
 * [Sampling Techniques](#sampling-techniques)
 * [Models Used](#models-used)
 * [Methodology](#methodology)
-* [Files & Output](#files--output)
+* [Files](#files)
 * [Results](#results)
 
 ---
