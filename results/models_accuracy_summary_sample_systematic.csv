@@ -1,0 +1,6 @@
+model,accuracy
+RandomForest,1.0
+HistGradientBoosting,1.0
+SVM,0.9891304347826086
+LogisticRegression,0.9456521739130435
+KNeighbors,0.8913043478260869
